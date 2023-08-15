@@ -1,0 +1,12 @@
+{"level":"info","message":"Esto es un Log de nivel Info"}
+{"level":"warning","message":"Esto es un Log de nivel warning"}
+{"level":"error","message":"Esto es un Log de nivel error"}
+{"level":"fatal","message":"Esto es un Log de nivel fatal"}
+{"level":"info","message":"Esto es un Log de nivel Info"}
+{"level":"warning","message":"Esto es un Log de nivel warning"}
+{"level":"error","message":"Esto es un Log de nivel error"}
+{"level":"fatal","message":"Esto es un Log de nivel fatal"}
+{"level":"info","message":"usted es admin"}
+{"level":"info","message":"login passport"}
+{"level":"info","message":{"__v":0,"_id":"64b38d3b22a55b0e16481d0a","age":20,"cart":"64b38d3a22a55b0e16481d08","documents":[],"email":"adminCoder@coder.com","first_name":"Coder","last_connection":"2023 07 25","last_name":"House","password":"$2b$10$/Fm6G8CeXLB0gFIEA8Kee.zlBaC2iJuFF3ciNO1us4HBNHh5sogRO","roll":"admin"}}
+{"level":"info","message":"usted es admin"}
